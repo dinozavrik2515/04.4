@@ -3,8 +3,7 @@
 #include <cmath>
 #include <cstdlib>
 #include <time.h>
-#include <algorithm>
-#include <vector>
+
 
 template <typename array>
 void Print(array arr, int size);
